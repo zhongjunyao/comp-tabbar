@@ -1,0 +1,3 @@
+<!--pages/index/index.wxml-->
+<comp-tabbar />
+<text>我是首页</text>

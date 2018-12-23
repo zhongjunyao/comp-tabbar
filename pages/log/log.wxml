@@ -1,0 +1,3 @@
+<!--pages/log/log.wxml-->
+<text>我是日志</text>
+<comp-tabbar />
